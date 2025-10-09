@@ -15,11 +15,11 @@ Welcome! This page captures the parts of my rest life—things I enjoy, places I
 ---
 I’m curious about the world outside terminals and text editors. I love moving between **stop & go, north & south**, and swapping lab hours for long walks, good food, and late-night board games.
 
-- I enjoy traveling 🌏—sometimes to get lost on purpose.
-- I practice **calligraphy** for focus and calm.
-- I play **Go** (Baduk/Weiqi) for strategy and patience.
-- I’m into **video games** and a variety of **card/board games** (including 🀄 mahjong).
-- I try to stay active with casual sports and outdoor walks.
+- I enjoy **traveling 🌏** — sometimes to get lost on purpose.
+- I practice **calligraphy ✍️** for focus and calm.
+- I play **Go ⚫️** (Baduk/Weiqi) for strategy and patience.
+- I’m into **video games 🎮** and a variety of **card/board games 🃏** (including **mahjong 🀄**).
+- I try to stay active with **casual sports & outdoor walks 🏃‍♂️**.
 
 ## 🌟 Hobbies & Life
 ---
