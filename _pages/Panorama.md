@@ -33,9 +33,9 @@ I’m curious about the world outside terminals and text editors. I love lingeri
 ---
 A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
 
-- **2025.1** – Paris, France — riverside strolls & small bookstores
-- **2025.1** – Barcelona, Spain — seaside sunsets & Gaudí lines
-- **2024.12** – Edinburgh, UK — Rain in Bristol of Merry Olde England
+- **2025.1** – Paris, France — Paris ne vous oubliera pas.
+- **2025.1** – Barcelona&Madrid&Sevilla, Spain — Despacito~~~
+- **2024.12** – Edinburgh, UK — Rain in Hogwarts of Merry Olde England
 - **2024.9** – Bristol, UK — Dream until I found you
 - **2023.8** – Zhoushan, Zhejiang, China —The sea remembers everything.
 - **2021.8** – Tibet, China —ཀུན་ཀྱང་བསམ་པའི་དོན་འགྲུབ་ཤོག །།
