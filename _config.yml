@@ -26,8 +26,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : ""
   location         : "Bristol, UK"
-  employer         : "University of Bristol"
-  uri              : "https://www.bristol.ac.uk"
+  employer         :'<a href="https://www.bristol.ac.uk/" target="_blank">University of Bristol</a>'
+  uri              : "https://shvenlyons.github.io/"
   email            : "shiwen.liu.2022@bristol.ac.uk" 
 
   # Academic websites
