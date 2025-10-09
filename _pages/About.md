@@ -40,7 +40,7 @@ Beyond these core areas, my broader interests center on **practice-oriented AI**
 
 * **B.Eng. in School of Cyber Science and Engineering**, [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/)
   * Sep. 2021 – Jun. 2025
-  * Supervisors: [Prof. Di Wu](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm), [Dr. Shuchao Pang](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm)
+  * Supervisors: [Dr. Di Wu](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm), [Prof. Shuchao Pang](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm)
   * GPA: **3.46/4.0**
   * Undergraduate Thesis: *Interview Simulation by LLM*
 
