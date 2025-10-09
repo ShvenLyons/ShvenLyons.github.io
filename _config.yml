@@ -21,7 +21,7 @@ repository               : "ShvenLyons/ShvenLyons.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ADai.png"
+  avatar           : "profile.png"
   name             : "Shiwen Liu"
   pronouns         : # example: "she/her"  
   bio              : ""
