@@ -13,12 +13,12 @@ Welcome! This page captures the parts of my rest life—things I enjoy, places I
 
 ## 📝 About Me (Beyond Research)
 ---
-I’m curious about the world outside terminals and text editors. I love moving between **stop & go, north & south**, and swapping lab hours for long walks, good food, and late-night board games.
+I’m curious about the world outside terminals and text editors. I love lingering in **stop & go, north & south**, and swapping free hours for long walks, good food, and solitude with coffee.
 
-- I enjoy **traveling 🌏** — sometimes to get lost on purpose.
+- I enjoy **traveling 🌏** — It's fun to get lost on purpose.
 - I practice **calligraphy ✍️** for focus and calm.
-- I play **Go ⚫️** (Baduk/Weiqi) for strategy and patience.
-- I’m into **video games 🎮** and a variety of **card/board games 🃏** (including **mahjong 🀄**).
+- I play **Go ⚫️** (Weiqi) for strategy and patience.
+- I’m into **video games 🎮** and **mahjong 🀄**.
 - I try to stay active with **casual sports & outdoor walks 🏃‍♂️**.
 
 ## 🌟 Hobbies & Life
@@ -33,21 +33,21 @@ I’m curious about the world outside terminals and text editors. I love moving 
 ---
 A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
 
-- **2025** – Bristol → London → (back home) — brief city walks, museums, and coffee trails  
-- **2024** – Paris, France — riverside strolls & small bookstores  
-- **2023** – Barcelona, Spain — seaside sunsets & Gaudí lines  
-- **2022** – Hangzhou, China — tea fields and quiet mornings  
-
-> I prefer slow travel: fewer checklists, more small moments.
+- **2025.1** – Paris, France — riverside strolls & small bookstores
+- **2025.1** – Barcelona, Spain — seaside sunsets & Gaudí lines
+- **2024.12** – Edinburgh, UK — Rain in Bristol of Merry Olde England
+- **2024.9** – Bristol, UK — Dream until I found you
+- **2023.8** – Zhoushan, Zhejiang, China —The sea remembers everything.
+- **2021.8** – Tibet, China —ཀུན་ཀྱང་བསམ་པའི་དོན་འགྲུབ་ཤོག །།
+- 
+> My Backpack is full of Freedom! Next Stop : Unknown Adventures
 
 ## 🏫 Community
 ---
-- **Mentoring & Peer Support**: sharing practical study paths, paper reading tips, and reproducible workflows with juniors.  
-- **Open-Source & Notes**: documenting tools, small utilities, and write-ups that might save someone an hour.  
-- **Campus & Local Events**: meetups around AI, security, and responsible tech; always happy to connect.
+
 
 ## 🧱 Notes
 ---
-- **What I’m learning next**: better systems for note-taking, writing clearly, and staying consistent.  
-- **Tiny principles**: start small, iterate weekly, write what you’ve learned, and leave breadcrumbs for future you.  
-- **Contact**: find me via the links in the sidebar—always open to travel tips, book recs, or game recommendations.
+- **What I’m learning next**: 
+- **Next Tourist destination**: 
+- **Contact**: 
