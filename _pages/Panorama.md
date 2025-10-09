@@ -38,7 +38,7 @@ A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
 - **2024.12** – Edinburgh, UK — Rain in Hogwarts of Merry Olde England
 - **2024.9** – Bristol, UK — Dream until I found you
 - **2023.8** – Zhoushan, Zhejiang, China —The sea remembers everything.
-- **2021.8** – Tibet, China —ཀུན་ཀྱང་བསམ་པའི་དོན་འགྲུབ་ཤོག །།
+- **2021.8** – Tibet, China — ཀུན་ཀྱང་བསམ་པའི་དོན་འགྲུབ་ཤོག །།
 - 
 > My Backpack is full of Freedom! Next Stop : Unknown Adventures
 
