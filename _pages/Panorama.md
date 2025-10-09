@@ -9,49 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
-* I enjoy traveling🌏, basketball🏀, badminton🏸, billiards🎱, mahjong🀄, and many other card games🃏!
+Welcome! This page captures the parts of my rest life—things I enjoy, places I’ve been, and communities I care about.
 
-📝 Documenting my Fall 2025 Master's Applications
+## 📝 About Me (Beyond Research)
 ---
-I have received offers from the following programs for Fall 2025:
-* ![](https://img.shields.io/badge/Jan.%202025-FF00FF) MSc. CIE at CUHK-SZ, *with a scholarship of 30,000 RMB*! <a href="https://sse.cuhk.edu.cn/en/page/1727" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. CS at The University of Hong Kong! **<span style="color: red;">(Final Choice)</span>** <a href="https://www.msc-cs.hku.hk/" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Oct.%202024-FF00FF) MSc. Cyber Security, Privacy and Trust at the University of Edinburgh! <a href="https://postgraduate.degrees.ed.ac.uk/index.php?r=site/view&edition=2025&id=971" target="_blank">[Link]</a>
-* ![](https://img.shields.io/badge/Dec.%202024-FF00FF) MSc. Robotics at the University of Bristol! <a href="https://www.bristol.ac.uk/study/postgraduate/taught/msc-robotics/" target="_blank">[Link]</a>
+I’m curious about the world outside terminals and text editors. I love moving between **stop & go, north & south**, and swapping lab hours for long walks, good food, and late-night board games.
 
-👨‍💻 Startup Experience
----
-I co-founded *Nanjing Nebulorix Co., Ltd.* with my friends, looking forward to bring our interesting ideas to fruition!
+- I enjoy traveling 🌏—sometimes to get lost on purpose.
+- I practice **calligraphy** for focus and calm.
+- I play **Go** (Baduk/Weiqi) for strategy and patience.
+- I’m into **video games** and a variety of **card/board games** (including 🀄 mahjong).
+- I try to stay active with casual sports and outdoor walks.
 
-🤖 Robotics
+## 🌟 Hobbies & Life
 ---
-I have participated in 8 seasons of VEX-EDR (now known as [VEX-V5](https://www.vexrobotics.com/v5)) robotics competitions, selected awards including:
-* ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **First Prize 🏆** at *World Robot Conference Contest (WRCC 2018)*.
-* ![](https://img.shields.io/badge/2018-Beijing,%20China-blue) **Second Runner-up 🥉** at *World Robot Conference Contest (WRCC 2018)*.
-* ![](https://img.shields.io/badge/2016-Xi'an,%20China-blue) **Runner-up 🥈** at *National VEX Robotics Engineering Challenge*.
-* ![](https://img.shields.io/badge/2016-Louisville,%20USA-blue) **Glod Award 🏆** at *VEX World Championship*.
-* ![](https://img.shields.io/badge/2015-Melbourne,%20Australia-blue) **Glod Award 🏆** at *Asia-Pacific Robotics Championship*.
-* ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **Champion 🥇** at *National VEX Robotics Engineering Challenge*.
-* ![](https://img.shields.io/badge/2015-Weihai,%20China-blue) **First Prize 🏆** at *National VEX Robotics Engineering Challenge*.
-<figure style="text-align: center;">
-  <div style="display: flex; justify-content: center; align-items: center;">
-    <img src="https://ALIENHHY.github.io/_pages/VEX-World.png" alt="VEX-World" style="height: 300px; width: auto; margin-right: 10px;">
-    <img src="https://ALIENHHY.github.io/_pages/VEX-China.png" alt="VEX-China" style="height: 300px; width: auto;">
-  </div>
-  <figcaption style="text-align: center;">
-    * The cities I've visited for competitions, created using the tool: @<a href="https://github.com/ALIENHHY/MAP-DIY" target="_blank">FootPrinter</a>.
-  </figcaption>
-</figure>
+- **Calligraphy & Handwriting**: experimenting with structure, spacing, and rhythm; it’s meditation with ink.  
+- **Go / Strategy Games**: endgame reading, shape, and life-and-death problems—fun ways to think better.  
+- **Games & Esports**: narrative-driven titles and co-op adventures; I enjoy post-game breakdowns like a mini retro.  
+- **Reading List**: essays on technology & society, trustworthy AI, and the craft of writing.  
+- **Fitness & Balance**: light workouts, long walks, and “no-screen evenings” to reset attention.
 
-🌠 Students’ Activities
+## 🧭 Travel Footsteps (Selected)
 ---
-* ![](https://img.shields.io/badge/2024--Current-A020F0) Student Congress, NJUST
-  * Permanent Representatives
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Major of 2021 in Cyberspace Security, NJUST
-  * Secretary of the Reunion Branch
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Basketball Team of the School of Cyberspace Security, NJUST
-  * Team Member
-* ![](https://img.shields.io/badge/2021--Current-A020F0) Badminton Team of the School of Cyberspace Security, NJUST
-  * Team Member
-* ![](https://img.shields.io/badge/2022%20&%202023-A020F0) Summer Social Practice Activity (Provincial Core Project)
-  * Team Leader
+A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
+
+- **2025** – Bristol → London → (back home) — brief city walks, museums, and coffee trails  
+- **2024** – Paris, France — riverside strolls & small bookstores  
+- **2023** – Barcelona, Spain — seaside sunsets & Gaudí lines  
+- **2022** – Hangzhou, China — tea fields and quiet mornings  
+
+> I prefer slow travel: fewer checklists, more small moments.
+
+## 🏫 Community
+---
+- **Mentoring & Peer Support**: sharing practical study paths, paper reading tips, and reproducible workflows with juniors.  
+- **Open-Source & Notes**: documenting tools, small utilities, and write-ups that might save someone an hour.  
+- **Campus & Local Events**: meetups around AI, security, and responsible tech; always happy to connect.
+
+## 🧱 Notes
+---
+- **What I’m learning next**: better systems for note-taking, writing clearly, and staying consistent.  
+- **Tiny principles**: start small, iterate weekly, write what you’ve learned, and leave breadcrumbs for future you.  
+- **Contact**: find me via the links in the sidebar—always open to travel tips, book recs, or game recommendations.
