@@ -9,7 +9,7 @@ redirect_from:
 
 **Hi!** My name is **Shiwen Liu**. I am currently pursuing an **M.Sc.** in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/) at the **University of Bristol**, supervised by [*Dr. Alma Oracevic*](https://research-information.bris.ac.uk/en/persons/alma-oracevic). 
 
-Previously, I received my **B.Eng.** degree from the [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/), advised by [*Prof. Di Wu*](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm) and [*Dr. Shuchao Pang*](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm).
+Previously, I received my **B.Eng.** degree from the [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), [Nanjing University of Science and Technology](https://www.njust.edu.cn/), advised by [*Dr. Di Wu*](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm) and [*Prof. Shuchao Pang*](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm).
 
 My research interests lie on **AI privacy**, **trustworthy AI**, and **Retrieval-Augmented Generation**.
 
