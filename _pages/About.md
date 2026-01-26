@@ -35,7 +35,7 @@ Beyond these core areas, my broader interests center on **practice-oriented AI**
   * Sep. 2024 – Nov. 2025
   * Major: Cyber Security(Infrastructure)
   * Classification: **Merit**
-  * MSc Thesis: *Secure Architecture in Real-time* (Distinction)
+  * MSc Thesis: *Secure Architecture for drones in Real-time* (Distinction)
   * Note: **3+1** AMD program with NJUST
 
 * **B.Eng. in School of Cyber Science and Engineering**, [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/)
