@@ -32,26 +32,27 @@ Beyond these core areas, my broader interests center on **practice-oriented AI**
 🏫 Education
 ---
 * **M.Sc. in School of Computer Science**, [University of Bristol](https://www.bristol.ac.uk/science-engineering/)
-  * Sep. 2024 – Present
-  * Supervisor: [Dr. Alma Oracevic](https://research-information.bris.ac.uk/en/persons/alma-oracevic)
+  * Sep. 2024 – Nov. 2025
+  * Major: Cyber Security(Infrastructure)
   * Classification: **Merit (expected)**
   * MSc Thesis: *Secure Architecture in Real-time*
   * Note: **3+1** AMD program with NJUST
 
 * **B.Eng. in School of Cyber Science and Engineering**, [Nanjing University of Science and Technology (NJUST)](https://www.njust.edu.cn/)
   * Sep. 2021 – Jun. 2025
-  * Supervisors: [Dr. Di Wu](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm), [Prof. Shuchao Pang](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm)
+  * Major: Cyberspace Security
   * GPA: **3.46/4.0**
   * Undergraduate Thesis: *Interview Simulation by LLM*
 
 
 🏞️ Journey of Life
 ---
+* ![](https://img.shields.io/badge/Jan.%202026-7A0019) 📚 Moved to Guangzhou, starting further study at HKUST(GZ)
+* ![](https://img.shields.io/badge/Oct.%202025-1E90FF) ✈️ Travel to Japan
 * ![](https://img.shields.io/badge/Oct.%202025-1E90FF) ✈️ Travel to Hong Kong
 * ![](https://img.shields.io/badge/Sep.%202025-1E90FF) ✈️ Go Home
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) 📚 Master's thesis defense passed (University of Bristol)
 * ![](https://img.shields.io/badge/Aug.%202025-00FF00) 📚 Paper **MirrorMind** accepted to **ADMA 2025**
-* ![](https://img.shields.io/badge/Jun.%202025-00FF00) 📚 Participated in **ICS-CTF** at the University of Bristol, New Experience!
 * ![](https://img.shields.io/badge/May.%202025-00FF00) 📚 Bachelor's thesis defense passed (NJUST)
 * ![](https://img.shields.io/badge/Feb.%202025-1E90FF) ✈️ Travel to Iceland
 * ![](https://img.shields.io/badge/Jan.%202025-1E90FF) ✈️ Travel to Paris
