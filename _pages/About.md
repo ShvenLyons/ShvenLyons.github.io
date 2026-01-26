@@ -48,6 +48,7 @@ Beyond these core areas, my broader interests center on **practice-oriented AI**
 🏞️ Journey of Life
 ---
 * ![](https://img.shields.io/badge/Jan.%202026-7A0019) 📚 Moved to Guangzhou, starting further study at HKUST(GZ)
+* ![](https://img.shields.io/badge/Dec.%202025-7A0019) 📚 Received offer from The Hong Kong University of Science and Technology (Guangzhou)
 * ![](https://img.shields.io/badge/Oct.%202025-1E90FF) ✈️ Travel to Japan
 * ![](https://img.shields.io/badge/Oct.%202025-1E90FF) ✈️ Travel to Hong Kong
 * ![](https://img.shields.io/badge/Sep.%202025-1E90FF) ✈️ Go Home
