@@ -9,7 +9,7 @@ redirect_from:
 
 **Hi!** My name is **Shiwen Liu**. I am a first-year PhD student in the [DSA thrust](https://dsa.hkust-gz.edu.cn/) at **HKUST(GZ)**, and a member of the [TINT](https://tint-research.com/) Research Group, under the supervision of Dr. Huayi Duan.
 
-I previously obtained my **M.Sc.** degree in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/) at the **University of Bristol**, supervised by [*Dr. Alma Oracevic*](https://research-information.bris.ac.uk/en/persons/alma-oracevic), and **B.Eng.** degree from the [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), **Nanjing University of Science and Technology**, advised by [*Dr. Di Wu*](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm) and [*Prof. Shuchao Pang*](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm).
+I previously obtained my **M.Sc.** degree in the [School of Computer Science](https://www.bristol.ac.uk/science-engineering/) at the **University of Bristol**, supervised by [*Dr. Alma Oracevic*](https://research-information.bris.ac.uk/en/persons/alma-oracevic), and **B.Eng.** degree from the [School of Cyber Science and Engineering](https://scs.njust.edu.cn/), **NJUST**, advised by [*Dr. Di Wu*](https://teacher.njust.edu.cn/wlkjaq/wd/list.htm) and [*Prof. Shuchao Pang*](https://teacher.njust.edu.cn/wlkjaq/psc/list.htm).
 
 My research interests lie on **AI privacy**, **trustworthy AI**, and **Retrieval-Augmented Generation**.
 
