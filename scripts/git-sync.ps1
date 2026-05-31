@@ -2,6 +2,11 @@
 GitHub sync helper.
 
 Authentication:
+  SSH deploy key is preferred. If this repository uses an SSH remote and
+  core.sshCommand points to the deploy key, no token environment variable is
+  required.
+
+  For HTTPS remotes only:
   $env:GH_TOKEN = "your fine-grained personal access token"
   # or
   $env:GITHUB_TOKEN = "your fine-grained personal access token"
