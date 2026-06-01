@@ -1,6 +1,37 @@
 <!-- start custom footer snippets -->
 
 <a href="/sitemap/">Sitemap</a>
+<span aria-hidden="true"> | </span>
+<button
+  type="button"
+  onclick="openLogMap()"
+  style="border:0;background:none;color:inherit;text-decoration:underline;cursor:pointer;padding:0;font:inherit;"
+>
+  LogMap
+</button>
+
+<a
+  href="https://clustrmaps.com/site/1c9ay"
+  aria-hidden="true"
+  tabindex="-1"
+  style="position:absolute;width:1px;height:1px;overflow:hidden;opacity:0;pointer-events:none;"
+>
+  <img
+    src="https://www.clustrmaps.com/map_v2.png?d=lR0YNxcjqpEfjOc8oSyXzAhRvDLwTa5hgsxWfNCQtLM&cl=ffffff"
+    alt=""
+    loading="eager"
+    width="1"
+    height="1"
+  />
+</a>
+
+<script>
+  function openLogMap() {
+    if (window.prompt("Password") === "adai") {
+      window.open("https://clustrmaps.com/site/1c9ay", "_blank", "noopener,noreferrer");
+    }
+  }
+</script>
 
 <!-- Support for MatJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
