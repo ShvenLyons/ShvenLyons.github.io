@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-Welcome! This page captures the parts of my rest life—things I enjoy, places I’ve been, and communities I care about.
+Welcome! This page captures the parts of my rest life—things I enjoy, places I’ve been, and the quiet companion who shares my everyday view.
 
 ## 📝 About Me (Beyond Research)
 ---
@@ -40,9 +40,15 @@ A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
 - 
 > My Backpack is full of Freedom! Next Stop : Unknown Adventures
 
-## 🏫 Community
+## My cat MIMO
 ---
 
+<figure class="mimo-figure">
+  <img src="{{ '/images/mimo.jpg' | relative_url }}" alt="MIMO, my black cat, resting on a sofa">
+  <figcaption>MIMO, my quiet black cat.</figcaption>
+</figure>
+
+I first met MIMO near the HKUST(GZ) off-campus residence; in June 2026, he officially joined my little household.
 
 ## 🧱 Notes
 ---
