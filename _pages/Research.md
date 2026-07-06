@@ -21,7 +21,7 @@ My work follows this scope by examining privacy, security, and malicious-use ris
   </article>
 
   <article class="research-card">
-    <p class="research-card__label"><a href="{{ '/research/projects/BenchRAG.html' | relative_url }}">Direction 02</a></p>
+    <p class="research-card__label"><a href="{{ '/assets/research/projects/BenchRAG.html' | relative_url }}">Direction 02</a></p>
     <h2>Trustworthy Retrieval-Augmented Generation</h2>
     <p>
       RAG combines external knowledge retrieval with language generation to improve grounding and factuality.

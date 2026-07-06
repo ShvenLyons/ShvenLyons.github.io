@@ -10,7 +10,7 @@ This repository contains a lightweight Jekyll source for a GitHub Pages personal
 - `assets/css/main.scss`: the complete custom site stylesheet.
 - `images/`: profile photo and favicon files.
 - `files/`: downloadable PDFs, including the CV.
-- `research/projects/`: unlinked internal prototype demos kept out of the public navigation.
+- `assets/research/projects/`: unlinked internal prototype demos kept out of the public navigation.
 
 ## Local Preview
 
