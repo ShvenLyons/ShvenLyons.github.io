@@ -3,7 +3,8 @@
     <a class="brand" href="{{ '/' | relative_url }}">{{ site.title }}</a>
     <div class="nav-links">
       {% for link in site.data.navigation.main %}
-        <a href="{{ link.url | relative_url }}">{{ link.title }}</a>
+        {% assign current_url = page.url | default: "/" %}
+        <a href="{{ link.url | relative_url }}"{% if current_url == link.url %} aria-current="page"{% endif %}>{{ link.title }}</a>
       {% endfor %}
     </div>
   </nav>
