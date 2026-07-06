@@ -40,15 +40,16 @@ A few snapshots from the road. For more, visit **[Footsteps](/footsteps/)**.
 - 
 > My Backpack is full of Freedom! Next Stop : Unknown Adventures
 
-## My cat MIMO
+## 🐈 Cat MIMO
 ---
 
 <figure class="mimo-figure">
   <img src="{{ '/images/mimo.jpg' | relative_url }}" alt="MIMO, my black cat, resting on a sofa">
-  <figcaption>MIMO, my quiet black cat.</figcaption>
+  <figcaption>MIMO, a quiet black cat.</figcaption>
 </figure>
 
-I first met MIMO near the HKUST(GZ) off-campus residence; in June 2026, he officially joined my little household.
+I first met MIMO near the HKUST(GZ) off-campus residence. 
+In June 2026, he officially joined my little household.
 
 ## 🧱 Notes
 ---
