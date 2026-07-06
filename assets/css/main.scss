@@ -365,7 +365,11 @@ pre code {
 }
 
 .btn--primary {
-  background: #2f7f93;
+  background: #7a0019;
+}
+
+.btn--primary:hover {
+  background: #5a0012;
 }
 
 .site-footer {
@@ -383,14 +387,43 @@ pre code {
   gap: 0.75em;
 }
 
-.visitor-map > a {
-  font-size: 0.75em;
+.visitor-map--page {
+  justify-items: start;
+  margin-bottom: 1.3em;
 }
 
 .visitor-map__widget {
+  position: relative;
   width: min(500px, 100%);
   min-height: 40px;
   overflow: hidden;
+}
+
+.visitor-map__gate {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-end;
+  border: 0;
+  background: transparent;
+  color: #fff;
+  cursor: pointer;
+  font: inherit;
+  padding: 0.5em;
+}
+
+.visitor-map__gate span {
+  border-radius: 4px;
+  background: rgba(49, 52, 54, 0.78);
+  font-size: 0.72em;
+  font-weight: 700;
+  line-height: 1;
+  padding: 0.45em 0.65em;
+}
+
+.visitor-map__gate:hover span {
+  background: rgba(122, 0, 25, 0.9);
 }
 
 .footer-meta {
