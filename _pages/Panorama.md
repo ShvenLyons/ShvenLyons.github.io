@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Welcome! This page captures the parts of my rest life—things I enjoy, places I’ve been, and communities I care about.
 
 ## 📝 About Me (Beyond Research)

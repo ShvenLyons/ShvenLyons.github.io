@@ -1,23 +1,6 @@
-<!-- start custom footer snippets -->
-
-<a href="/sitemap/">Sitemap</a>
-
-<div style="margin: 0.75rem auto 0; max-width: 520px; text-align: center;">
-  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=5568c1&w=500&t=m&d=W3Jkh14-NItxXnpyT3N4p0RoBPB-KHGIfRn1fa7YYz4&co=94bcd8&ct=2dba6c&cmo=cbedf7&cmn=e02247"></script>
+<div class="visitor-map" aria-label="Visitor map">
+  <a href="/sitemap.xml">Sitemap</a>
+  <div class="visitor-map__widget">
+    <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=5568c1&w=500&t=m&d=W3Jkh14-NItxXnpyT3N4p0RoBPB-KHGIfRn1fa7YYz4&co=94bcd8&ct=2dba6c&cmo=cbedf7&cmn=e02247"></script>
+  </div>
 </div>
-
-<!-- Support for MatJax -->
-<script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-<script defer src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js" id="MathJax-script"></script>
-
-<!-- Support for Plotly -->
-<script defer src='https://cdnjs.cloudflare.com/ajax/libs/plotly.js/3.0.1/plotly.min.js'></script>
-
-<!-- Support for Mermaid -->
-<script type="module">
-    import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11/dist/mermaid.esm.min.mjs';
-    mermaid.initialize({startOnLoad:true, theme:'default'});
-    await mermaid.run({querySelector:'code.language-mermaid'});
-</script>
-
-<!-- end custom footer snippets -->

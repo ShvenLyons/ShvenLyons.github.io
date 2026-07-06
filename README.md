@@ -1,15 +1,16 @@
 # Shiwen Liu Personal Website
 
-This repository contains the source for a GitHub Pages personal website built with Jekyll.
+This repository contains a lightweight Jekyll source for a GitHub Pages personal website.
 
 ## Structure
 
-- `_pages/`: main website pages, including home, publications, CV, footsteps, panorama, and talk map.
-- `_layouts/`, `_includes/`, `_sass/`: Jekyll theme templates and styles.
-- `assets/`: CSS, JavaScript, and icon fonts used by the theme.
-- `images/`: profile photo, favicon files, and selected site images.
+- `_pages/`: website pages, including home, publications, CV, footsteps, panorama, and 404.
+- `_layouts/`: minimal page wrappers for standard and archive-style pages.
+- `_includes/`: small reusable fragments for the head, navigation, profile sidebar, and footer.
+- `assets/css/main.scss`: the complete custom site stylesheet.
+- `images/`: profile photo and favicon files.
 - `files/`: downloadable PDFs, including the CV.
-- `Projects/`: standalone project demos that should be preserved.
+- `Projects/`: standalone project demos.
 
 ## Local Preview
 

@@ -9,8 +9,6 @@ redirect_from:
 
 Last updated on Oct, 2025: <a class="btn btn--primary" href="{{ '/files/CV_ShiwenLiu.pdf' | relative_url }}" target="_blank" rel="noopener">[CV-PDF]</a>
 
-{% include base_path %}
-
 Education
 ---
 * **M.Sc. in School of Computer Science**, [University of Bristol](https://www.bristol.ac.uk/science-engineering/)

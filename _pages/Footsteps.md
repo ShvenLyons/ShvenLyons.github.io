@@ -9,7 +9,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 🗻看云吗？我请客☺️
 
 <!-- Travel Map (inserted here) -->
