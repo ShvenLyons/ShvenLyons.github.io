@@ -1,31 +1,10 @@
 <!-- start custom footer snippets -->
 
 <a href="/sitemap/">Sitemap</a>
-<span aria-hidden="true"> | </span>
-<button
-  type="button"
-  onclick="openLogMap()"
-  style="border:0;background:none;color:inherit;text-decoration:underline;cursor:pointer;padding:0;font:inherit;"
->
-  LogMap
-</button>
 
 <div style="margin: 0.75rem auto 0; max-width: 520px; text-align: center;">
-  <img
-    src="https://www.clustrmaps.com/map_v2.png?d=lR0YNxcjqpEfjOc8oSyXzAhRvDLwTa5hgsxWfNCQtLM&cl=ffffff"
-    alt="Visitor map"
-    loading="eager"
-    style="max-width:100%;height:auto;border:0;border-radius:8px;pointer-events:none;"
-  />
+  <script type="text/javascript" id="mapmyvisitors" src="https://mapmyvisitors.com/map.js?cl=5568c1&w=500&t=m&d=W3Jkh14-NItxXnpyT3N4p0RoBPB-KHGIfRn1fa7YYz4&co=94bcd8&ct=2dba6c&cmo=cbedf7&cmn=e02247"></script>
 </div>
-
-<script>
-  function openLogMap() {
-    if (window.prompt("Password") === "adai") {
-      window.open("https://clustrmaps.com/site/1c9ay", "_blank", "noopener,noreferrer");
-    }
-  }
-</script>
 
 <!-- Support for MatJax -->
 <script defer src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
