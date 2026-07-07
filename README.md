@@ -1,22 +1,22 @@
 # Shiwen Liu Personal Website
 
-This repository contains a lightweight Jekyll source for a GitHub Pages personal website.
+This repository contains a static GitHub Pages personal website. It does not require Jekyll, Ruby, Node.js, or a build step.
 
 ## Structure
 
-- `_pages/`: website pages, including home, research, publications, CV, footsteps, panorama, and 404.
-- `_layouts/`: minimal page wrappers for standard and archive-style pages.
-- `_includes/`: small reusable fragments for the head, navigation, profile sidebar, and footer.
-- `assets/css/main.scss`: the complete custom site stylesheet.
+- `index.html`: homepage.
+- `research/`, `publications/`, `footsteps/`, `panorama/`, `cv/`: static page directories.
+- `404.html`: custom not-found page.
+- `assets/css/main.css`: site stylesheet.
 - `images/`: profile photo and favicon files.
 - `files/`: downloadable PDFs, including the CV.
 - `assets/research/projects/`: unlinked internal prototype demos kept out of the public navigation.
+- `.nojekyll`: tells GitHub Pages to serve the files directly without Jekyll processing.
 
 ## Local Preview
 
 ```bash
-bundle install
-bundle exec jekyll serve -l -H localhost
+python3 -m http.server 4000
 ```
 
 The site will be available at `http://localhost:4000`.
