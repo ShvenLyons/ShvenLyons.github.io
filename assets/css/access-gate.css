@@ -1,0 +1,93 @@
+.site-access-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 1000;
+  display: grid;
+  place-items: center;
+  padding: 1rem;
+  background: rgba(20, 23, 25, 0.58);
+}
+
+.site-access-dialog {
+  width: min(360px, 100%);
+  padding: 1.1rem;
+  border: 1px solid #bdc1c4;
+  border-radius: 8px;
+  background: #fff;
+  box-shadow: 0 16px 40px rgba(0, 0, 0, 0.2);
+  color: #313436;
+}
+
+.site-access-dialog h2 {
+  margin: 0 0 1rem;
+  font-size: 1rem;
+}
+
+.site-access-dialog label {
+  display: grid;
+  gap: 0.35rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+}
+
+.site-access-dialog input {
+  width: 100%;
+  min-height: 42px;
+  padding: 0.55rem 0.65rem;
+  border: 1px solid #7a8288;
+  border-radius: 4px;
+  background: #fff;
+  color: #313436;
+  font: inherit;
+}
+
+.site-access-dialog input:focus {
+  border-color: #7a0019;
+  outline: 2px solid rgba(122, 0, 25, 0.18);
+  outline-offset: 1px;
+}
+
+.site-access-error {
+  min-height: 1.4em;
+  margin: 0.55rem 0;
+  color: #9f1d35;
+  font-size: 0.75rem;
+}
+
+.site-access-actions {
+  display: flex;
+  justify-content: flex-end;
+  gap: 0.55rem;
+}
+
+.site-access-actions button {
+  min-height: 38px;
+  padding: 0.45rem 0.8rem;
+  border: 1px solid #7a8288;
+  border-radius: 4px;
+  background: #fff;
+  color: #313436;
+  cursor: pointer;
+  font: inherit;
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.site-access-actions button[type="submit"] {
+  border-color: #7a0019;
+  background: #7a0019;
+  color: #fff;
+}
+
+.site-access-actions button:disabled {
+  cursor: wait;
+  opacity: 0.65;
+}
+
+html.access-pending body > :not(.site-access-overlay) {
+  visibility: hidden;
+}
+
+html.access-pending .site-access-overlay {
+  visibility: visible;
+}

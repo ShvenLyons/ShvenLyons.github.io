@@ -3,6 +3,9 @@
   <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<script>document.documentElement.classList.add("access-pending");</script>
+<script defer src="/assets/js/access-gate.js"></script>
+<script defer src="/assets/js/panorama-gate.js"></script>
 <script defer src="/assets/js/visitor-tracker.js"></script>
 
 
@@ -24,6 +27,7 @@
 <meta name="theme-color" content="#f7fbff">
 
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/access-gate.css">
 <style>
   .mimo-gallery-figure { margin: 1em 0 1.6em; }
   .mimo-gallery {
@@ -42,6 +46,10 @@
     margin-top: 0.55em;
     color: var(--text-light);
     font-size: 0.78em;
+  }
+  .markerless-list {
+    padding-left: 0;
+    list-style: none;
   }
 </style>
 
@@ -160,7 +168,7 @@
 
 <h2 id="-hobbies--life">🌟 Hobbies &amp; Life</h2>
 <hr />
-<ul>
+<ul class="markerless-list">
   <li><strong>Calligraphy &amp; Handwriting</strong>: experimenting with structure, spacing, and rhythm; it’s meditation with ink.</li>
   <li><strong>Go / Strategy Games</strong>: endgame reading, shape, and life-and-death problems—fun ways to think better.</li>
   <li><strong>Games &amp; Esports</strong>: narrative-driven titles and co-op adventures; I enjoy post-game breakdowns like a mini retro.</li>
@@ -179,14 +187,13 @@
   <li><strong>2024.9</strong> – Bristol, UK — Dream until I found you</li>
   <li><strong>2023.8</strong> – Zhoushan, Zhejiang, China —The sea remembers everything.</li>
   <li><strong>2021.8</strong> – Tibet, China — ཀུན་ཀྱང་བསམ་པའི་དོན་འགྲུབ་ཤོག །།</li>
-  <li>
-    <blockquote>
-      <p>My Backpack is full of Freedom! Next Stop : Unknown Adventures</p>
-    </blockquote>
-  </li>
 </ul>
 
-<h2 id="-pet">🐈 Pet</h2>
+<blockquote>
+  <p>My Backpack is full of Freedom! Next Stop : Unknown Adventures</p>
+</blockquote>
+
+<h2 id="-pet">🐈‍⬛ Pet</h2>
 <hr />
 
 <figure class="mimo-gallery-figure">
@@ -201,9 +208,9 @@
 <p>I first met MIMO near the off-campus residence.<br />
 In June 2026, he officially joined my little household.</p>
 
-<h2 id="-notes">🧱 Notes</h2>
+<h2 id="notes">Notes</h2>
 <hr />
-<ul>
+<ul class="markerless-list">
   <li><strong>What I’m learning next</strong>:</li>
   <li><strong>Next Tourist destination</strong>:</li>
   <li><strong>Contact</strong>:</li>

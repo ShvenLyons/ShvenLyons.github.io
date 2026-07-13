@@ -4,6 +4,7 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <script defer src="/assets/js/visitor-tracker.js"></script>
+<script defer src="/assets/js/access-gate.js"></script>
 
 
 <title>404 · Lost & Found - ADai's Homepage</title>
@@ -24,6 +25,7 @@
 <meta name="theme-color" content="#f7fbff">
 
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="/assets/css/access-gate.css">
 
   </head>
   <body>
@@ -174,12 +176,13 @@ Let’s get you back on track. 🚀
     var gate = document.querySelector("[data-visitor-map] .visitor-map__gate");
     if (!gate) return;
 
-    function verifyAndOpen() {
-      var code = window.prompt("Input access code:");
-      if (code === "adai") {
-        window.open("https://mapmyvisitors.com/", "_blank", "noopener");
-      } else if (code !== null) {
-        window.alert("Incorrect code.");
+    async function verifyAndOpen() {
+      try {
+        if (window.siteAccess && await window.siteAccess.request()) {
+          window.open("https://mapmyvisitors.com/", "_blank", "noopener");
+        }
+      } catch (error) {
+        // Leave the visitor on the current page if verification is unavailable.
       }
     }
 
