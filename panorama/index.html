@@ -24,6 +24,26 @@
 <meta name="theme-color" content="#f7fbff">
 
 <link rel="stylesheet" href="/assets/css/main.css">
+<style>
+  .mimo-gallery-figure { margin: 1em 0 1.6em; }
+  .mimo-gallery {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 0.65em;
+  }
+  .mimo-gallery img {
+    display: block;
+    width: 100%;
+    aspect-ratio: 1;
+    border-radius: 8px;
+    object-fit: cover;
+  }
+  .mimo-gallery-figure figcaption {
+    margin-top: 0.55em;
+    color: var(--text-light);
+    font-size: 0.78em;
+  }
+</style>
 
   </head>
   <body>
@@ -166,15 +186,19 @@
   </li>
 </ul>
 
-<h2 id="-cat-mimo">🐈 Cat MIMO</h2>
+<h2 id="-pet">🐈 Pet</h2>
 <hr />
 
-<figure class="mimo-figure">
-  <img src="/images/mimo.jpg" alt="MIMO, my black cat, resting on a sofa" />
+<figure class="mimo-gallery-figure">
+  <div class="mimo-gallery">
+    <img src="/images/mimo0.jpg" alt="MIMO looking up while resting" loading="lazy" decoding="async" />
+    <img src="/images/mimo1.jpg" alt="MIMO resting beside a sofa cushion" loading="lazy" decoding="async" />
+    <img src="/images/mimo2.jpg" alt="MIMO lying on a sofa" loading="lazy" decoding="async" />
+  </div>
   <figcaption>MIMO, a quiet black cat.</figcaption>
 </figure>
 
-<p>I first met MIMO near the HKUST(GZ) off-campus residence. 
+<p>I first met MIMO near the off-campus residence.<br />
 In June 2026, he officially joined my little household.</p>
 
 <h2 id="-notes">🧱 Notes</h2>
